@@ -63,6 +63,7 @@ $vm_object | ogv
 $vm_object | ft name, exs-host,os,disk,cpu,cores, mem, vlan,ip 
 
 
+
 $net | fl *
 $vmtest | ogv
 
