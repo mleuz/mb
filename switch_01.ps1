@@ -13,6 +13,7 @@ function switchtest {
     # === Return ===
     return $test
 }
+
 Switchtest
 Switchtest -off
  
