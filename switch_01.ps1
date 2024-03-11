@@ -16,4 +16,6 @@ function switchtest {
 
 Switchtest
 Switchtest -off
+# test test
+
  
