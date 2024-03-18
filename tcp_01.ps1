@@ -1,7 +1,7 @@
 #############################
 # Mario Leuzinger 06.02.2024
 # IPV4 Checksum Offload
-# Vers. 02
+# Vers. 03
 #############################
 
 # --- Festlegen des Pfads fÃ¼r das Log-Protokoll
